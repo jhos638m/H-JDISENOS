@@ -1,0 +1,1 @@
+export function loadSidebar() { console.log('Sidebar cargado'); }
